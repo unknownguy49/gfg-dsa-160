@@ -8,11 +8,11 @@ The repository is organized by days, with each day's solution stored in its resp
 
 ```
 .
-├── Day 1
+├── Day 001
 │   └── solution.md
-├── Day 2
+├── Day 002
 │   └── solution.md
-├── Day 3
+├── Day 003
 │   └── solution.md
 ...
 ├── Day 160
@@ -21,7 +21,7 @@ The repository is organized by days, with each day's solution stored in its resp
 
 ## Daily Updates
 
-I will be uploading my solutions for each day in their respective folders. Each folder will contain a `day(n).md` file with the problem statement, a `day(n).java` file for the solution.
+I will be uploading my solutions for each day in their respective folders. Each folder will contain a `day{n}.md` file with the problem statement, a `day{n}.java` file for the solution.
 
 ## Contact
 
