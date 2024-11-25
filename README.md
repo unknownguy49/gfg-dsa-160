@@ -9,14 +9,18 @@ The repository is organized by days, with each day's solution stored in its resp
 ```
 .
 ├── Day 001
-│   └── solution.md
+│   ├── day1.md
+│   └── day1.java
 ├── Day 002
-│   └── solution.md
+│   ├── day2.md
+│   └── day2.java
 ├── Day 003
-│   └── solution.md
+│   ├── day3.md
+│   └── day3.java
 ...
 ├── Day 160
-│   └── solution.md
+│   ├── day160.md
+│   └── day160.java
 ```
 
 ## Daily Updates
