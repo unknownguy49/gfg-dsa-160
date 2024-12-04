@@ -1,4 +1,3 @@
-// User function Template for Java
 class Solution {
 
     public List<Integer> findSplit(int[] arr) {
