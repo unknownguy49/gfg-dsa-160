@@ -13,29 +13,76 @@ The repository is organized by days, with each day's solution stored in its resp
 │   │   ├── Problem 1
 │   │   ...
 │   │   └── Problem 4
-│   │   
+│   │
 │   └── Strings
 │
-├── Day 001
-│   ├── day1.md
-│   └── day1.java
+├── Arrays
+│   ├── Day 001
+│   │   ├── day1.md
+│   │   └── day1.java
+│   ├── Day 002
+│   │   ├── day2.md
+│   │   └── day2.java
+│   ...
+│   └── Day 013
+│       ├── day13.md
+│       └── day13.java
 │
-├── Day 002
-│   ├── day2.md
-│   └── day2.java
+├── Strings
+│   ├── Day 014
+│   │   ├── day14.md
+│   │   └── day14.java
+│   ├── Day 015
+│   │   ├── day15.md
+│   │   └── day15.java
+│   ...
+│   └── Day 020
+│       ├── day20.md
+│       └── day20.java
 │
-├── Day 003
-│   ├── day3.md
-│   └── day3.java
-...
-├── Day 160
-│   ├── day160.md
-│   └── day160.java
+├── Sorting
+│   ├── Day 021
+│   │   ├── day21.md
+│   │   └── day21.java
+│   ├── Day 022
+│   │   ├── day22.md
+│   │   └── day22.java
+│   ...
+│   └── Day 027
+│       ├── day27.md
+│       └── day27.java
+│
+├── Searching
+│   ├── Day 028
+│   │   ├── day28.md
+│   │   └── day28.java
+│   ├── Day 029
+│   │   ├── day29.md
+│   │   └── day29.java
+│   ...
+│   └── Day 03x
+│       ├── day3x.md
+│       └── day3x.java
+│
+├── <to be added>
+│   ├── Day 1xx
+│   │   ├── day1xx.md
+│   │   └── day1xx.java
+│   ├── Day 1xx
+│   │   ├── day1xx.md
+│   │   └── day1xx.java
+│   ...
+│   └── Day 160
+│       ├── day160.md
+│       └── day160.java
 ```
 
 ## Topic-Wise Division
+
 - **Arrays**: Day 1 - Day 13
-- **Strings**: Day 14 - Unknown
+- **Strings**: Day 14 - Day 20
+- **Sorting**: Day 21 - Day 27
+- **Searching**: Day 28 - unknown
 - **Bonus problems**
 
 ## Daily Updates
