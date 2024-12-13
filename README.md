@@ -8,14 +8,6 @@ The repository is organized by days, with each day's solution stored in its resp
 
 ```
 .
-├── Bonus Problems
-│   ├── Arrays
-│   │   ├── Problem 1
-│   │   ...
-│   │   └── Problem 4
-│   │
-│   └── Strings
-│
 ├── Arrays
 │   ├── Day 001
 │   │   ├── day1.md
@@ -75,6 +67,25 @@ The repository is organized by days, with each day's solution stored in its resp
 │   └── Day 160
 │       ├── day160.md
 │       └── day160.java
+│
+└── Bonus Problems
+    ├── Arrays
+    │   ├── Problem 1
+    │   ...
+    │   └── Problem 4
+    │
+    ├── Strings
+    │   ├── Problem 1
+    │   ...
+    │   └── Problem 6
+    │
+    ├── Sorting
+    │   ├── Problem 1
+    │   ...
+    │   └── Problem 4
+    │
+    └── Searching
+
 ```
 
 ## Topic-Wise Division
