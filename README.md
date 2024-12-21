@@ -52,9 +52,21 @@ The repository is organized by days, with each day's solution stored in its resp
 │   │   ├── day29.md
 │   │   └── day29.java
 │   ...
-│   └── Day 03x
-│       ├── day3x.md
-│       └── day3x.java
+│   └── Day 035
+│       ├── day35.md
+│       └── day35.java
+│
+├── Matrix
+│   ├── Day 036
+│   │   ├── day36.md
+│   │   └── day37.java
+│   ├── Day 037
+│   │   ├── day37.md
+│   │   └── day37.java
+│   ...
+│   └── Day 04x
+│       ├── day4x.md
+│       └── day4x.java
 │
 ├── <to be added>
 │   ├── Day 1xx
@@ -85,6 +97,9 @@ The repository is organized by days, with each day's solution stored in its resp
     │   └── Problem 4
     │
     └── Searching
+        ├── Problem 1
+        ...
+        └── Problem 6
 
 ```
 
@@ -93,7 +108,8 @@ The repository is organized by days, with each day's solution stored in its resp
 - **Arrays**: Day 1 - Day 13
 - **Strings**: Day 14 - Day 20
 - **Sorting**: Day 21 - Day 27
-- **Searching**: Day 28 - unknown
+- **Searching**: Day 28 - Day 35
+- **Matrix**: Day 36 - unknown
 - **Bonus problems**
 
 ## Daily Updates
