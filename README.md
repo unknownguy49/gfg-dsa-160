@@ -109,7 +109,8 @@ The repository is organized by days, with each day's solution stored in its resp
 - **Strings**: Day 14 - Day 20
 - **Sorting**: Day 21 - Day 27
 - **Searching**: Day 28 - Day 35
-- **Matrix**: Day 36 - unknown
+- **Matrix**: Day 36 - Day 41
+- **Hashing**: Day 42 - unknown
 - **Bonus problems**
 
 ## Daily Updates
