@@ -88,9 +88,9 @@ The repository is organized by days, with each day's solution stored in its resp
 │   │   ├── day52.md
 │   │   └── day52.java
 │   ...
-│   └── Day 05x
-│       ├── day5x.md
-│       └── day5x.java
+│   └── Day 060
+│       ├── day60.md
+│       └── day60.java
 │
 ├── <to be added>
 │   ├── Day 1xx
@@ -145,7 +145,8 @@ The repository is organized by days, with each day's solution stored in its resp
 - **Searching**: Day 28 - Day 35
 - **Matrix**: Day 36 - Day 41
 - **Hashing**: Day 42 - Day 50
-- **Two Pointer Technique**: Day 51 - unknown
+- **Two Pointer Technique**: Day 51 - Day 60
+- **Prefix Sum**: Day 61 - unknown
 - **Bonus problems**
 
 ## Daily Updates
