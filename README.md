@@ -8,7 +8,7 @@ The repository is organized by days, with each day's solution stored in its resp
 
 ```
 .
-├── Arrays
+├── <Topic 1>
 │   ├── Day 001
 │   │   ├── day1.md
 │   │   └── day1.java
@@ -20,7 +20,7 @@ The repository is organized by days, with each day's solution stored in its resp
 │       ├── day13.md
 │       └── day13.java
 │
-├── Strings
+├── <Topic 2>
 │   ├── Day 014
 │   │   ├── day14.md
 │   │   └── day14.java
@@ -32,67 +32,9 @@ The repository is organized by days, with each day's solution stored in its resp
 │       ├── day20.md
 │       └── day20.java
 │
-├── Sorting
-│   ├── Day 021
-│   │   ├── day21.md
-│   │   └── day21.java
-│   ├── Day 022
-│   │   ├── day22.md
-│   │   └── day22.java
-│   ...
-│   └── Day 027
-│       ├── day27.md
-│       └── day27.java
+...
 │
-├── Searching
-│   ├── Day 028
-│   │   ├── day28.md
-│   │   └── day28.java
-│   ├── Day 029
-│   │   ├── day29.md
-│   │   └── day29.java
-│   ...
-│   └── Day 035
-│       ├── day35.md
-│       └── day35.java
-│
-├── Matrix
-│   ├── Day 036
-│   │   ├── day36.md
-│   │   └── day36.java
-│   ├── Day 037
-│   │   ├── day37.md
-│   │   └── day37.java
-│   ...
-│   └── Day 041
-│       ├── day41.md
-│       └── day41.java
-│
-├── Hashing
-│   ├── Day 042
-│   │   ├── day42.md
-│   │   └── day42.java
-│   ├── Day 043
-│   │   ├── day43.md
-│   │   └── day43.java
-│   ...
-│   └── Day 050
-│       ├── day50.md
-│       └── day50.java
-│
-├── Two Pointer Technique
-│   ├── Day 051
-│   │   ├── day51.md
-│   │   └── day51.java
-│   ├── Day 052
-│   │   ├── day52.md
-│   │   └── day52.java
-│   ...
-│   └── Day 060
-│       ├── day60.md
-│       └── day60.java
-│
-├── <to be added>
+├── <Topic <n>>
 │   ├── Day 1xx
 │   │   ├── day1xx.md
 │   │   └── day1xx.java
@@ -105,32 +47,17 @@ The repository is organized by days, with each day's solution stored in its resp
 │       └── day160.java
 │
 └── Bonus Problems
-    ├── Arrays
+    ├── Topic 1
     │   ├── Problem 1
     │   ...
     │   └── Problem 4
     │
-    ├── Strings
+    ├── Topic 2
     │   ├── Problem 1
     │   ...
     │   └── Problem 6
-    │
-    ├── Sorting
-    │   ├── Problem 1
-    │   ...
-    │   └── Problem 4
-    │
-    ├── Searching
-    │   ├── Problem 1
-    │   ...
-    │   └── Problem 6
-    │
-    ├── Matrix
-    │   ├── Problem 1
-    │   ...
-    │   └── Problem 4
-    │
-    └── Hashing
+    ...
+    └── Topic <n> 
         ├── Problem 1
         ...
         └── Problem 6
@@ -146,7 +73,8 @@ The repository is organized by days, with each day's solution stored in its resp
 - **Matrix**: Day 36 - Day 41
 - **Hashing**: Day 42 - Day 50
 - **Two Pointer Technique**: Day 51 - Day 60
-- **Prefix Sum**: Day 61 - unknown
+- **Prefix Sum**: Day 61 - Day 64
+- **Linked List**: Day 65 - unknown
 - **Bonus problems**
 
 ## Daily Updates
