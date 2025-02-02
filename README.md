@@ -74,7 +74,9 @@ The repository is organized by days, with each day's solution stored in its resp
 - **Hashing**: Day 42 - Day 50
 - **Two Pointer Technique**: Day 51 - Day 60
 - **Prefix Sum**: Day 61 - Day 64
-- **Linked List**: Day 65 - unknown
+- **Linked List**: Day 65 - Day 74
+- **Recursion and Backtracking**: Day 75 - Day 79
+- **Tree**: Day 80 - unknown
 - **Bonus problems**
 
 ## Daily Updates
