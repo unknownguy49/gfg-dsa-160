@@ -47,17 +47,17 @@ The repository is organized by days, with each day's solution stored in its resp
 │       └── day160.java
 │
 └── Bonus Problems
-    ├── Topic 1
+    ├── <Topic 1>
     │   ├── Problem 1
     │   ...
     │   └── Problem 4
     │
-    ├── Topic 2
+    ├── <Topic 2>
     │   ├── Problem 1
     │   ...
     │   └── Problem 6
     ...
-    └── Topic <n> 
+    └── <Topic <n>> 
         ├── Problem 1
         ...
         └── Problem 6
@@ -76,7 +76,8 @@ The repository is organized by days, with each day's solution stored in its resp
 - **Prefix Sum**: Day 61 - Day 64
 - **Linked List**: Day 65 - Day 74
 - **Recursion and Backtracking**: Day 75 - Day 79
-- **Tree**: Day 80 - unknown
+- **Tree**: Day 80 - Day 94
+- **Heap**: Day 95 - Unknown
 - **Bonus problems**
 
 ## Daily Updates
