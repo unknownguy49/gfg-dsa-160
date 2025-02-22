@@ -57,7 +57,7 @@ The repository is organized by days, with each day's solution stored in its resp
     │   ...
     │   └── Problem 6
     ...
-    └── <Topic <n>> 
+    └── <Topic <n>>
         ├── Problem 1
         ...
         └── Problem 6
@@ -77,7 +77,8 @@ The repository is organized by days, with each day's solution stored in its resp
 - **Linked List**: Day 65 - Day 74
 - **Recursion and Backtracking**: Day 75 - Day 79
 - **Tree**: Day 80 - Day 94
-- **Heap**: Day 95 - Unknown
+- **Heap**: Day 95 - Day 98
+- **Stack**: Day 99 - Unknown
 - **Bonus problems**
 
 ## Daily Updates
