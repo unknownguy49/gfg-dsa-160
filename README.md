@@ -78,7 +78,9 @@ The repository is organized by days, with each day's solution stored in its resp
 - **Recursion and Backtracking**: Day 75 - Day 79
 - **Tree**: Day 80 - Day 94
 - **Heap**: Day 95 - Day 98
-- **Stack**: Day 99 - Unknown
+- **Stack**: Day 99 - Day 107
+- **Queue and Deque**: Day 108 - Day 109
+- **Dynamic Programming**: Day 110 - Unknown
 - **Bonus problems**
 
 ## Daily Updates
