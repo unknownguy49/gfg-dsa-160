@@ -80,7 +80,8 @@ The repository is organized by days, with each day's solution stored in its resp
 - **Heap**: Day 95 - Day 98
 - **Stack**: Day 99 - Day 107
 - **Queue and Deque**: Day 108 - Day 109
-- **Dynamic Programming**: Day 110 - Unknown
+- **Dynamic Programming**: Day 110 - Day 132
+- **Greedy**: Day 133 - unknown
 - **Bonus problems**
 
 ## Daily Updates
